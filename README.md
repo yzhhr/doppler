@@ -8,7 +8,7 @@ The whole thing took me 8h of work during Aug 15-18 in 2021.
 
 # Sample Video
 
-The two videos below may take a while to load.
+The two videos below may take a while to load. Turn on your speaker to hear the sound.
 
 ![pedestrian's view](./straight.mp4)
 

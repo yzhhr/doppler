@@ -8,9 +8,11 @@ The whole thing took me 8h of work during Aug 15-18 in 2021.
 
 # Sample Video
 
-The two videos below may take a while to load. Turn on your speaker to hear the sound.
+The two videos below may take a while to load. **noise alert** Turn on the sound.
 
-https://raw.githubusercontent.com/yzhhr/doppler/main/cycle.mp4
+https://user-images.githubusercontent.com/86141389/147317860-f1d8fe41-c6c5-473d-a3f8-9998c20ffe70.mp4
+
+https://user-images.githubusercontent.com/86141389/147317842-e2ef5fea-b9d5-435f-8089-c5cb3be0f53d.mp4
 
 
 # Doppler Simulator: Watch & listen. / 多普勒效应模拟器。
